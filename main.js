@@ -34,4 +34,4 @@ If the space had remained circular it's approximate radius would be ${Math.sqrt(
 
 
 console.log(plantGrowth(3))
-console.log(plantGrowth(0))
+console.log(plantGrowth(0, 100))
